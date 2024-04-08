@@ -10,10 +10,10 @@ To Do:
 		iii. Heal
 	b. Create method for opponents to attack
 		i. Random number 1-3/0-2 and assign each to a move
-	c. Maintain whose turn it is - boolean for if it is player's turn
+	c. Maintain whose turn it is - boolean for if it is player's turn (complete)
 	d. Create health UI and maintain it in code (complete)
-		i. Create game over is player health reaches 0
-		ii. Create win battle state if enemy health reaches 0
+		i. Create game over is player health reaches 0 (complete)
+		ii. Create win battle state if enemy health reaches 0 (complete)
 3. Create inventory system
 	a. Array of item objects
 		i. Read array for current objects and apply stats to player. 
