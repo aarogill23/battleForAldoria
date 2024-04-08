@@ -1,0 +1,23 @@
+To Do:
+1. Create rolling dice mechanic (complete)
+	a. Create die (complete)
+	b. Roll numbers 1-6 for each die or possibly just one roll 2-12 (complete)
+	c. Create method for player to roll (complete)
+2. Create turn based combat
+	a. Create 3 moves for players to use
+		i. Attack (complete)
+		ii. Defend (complete)
+		iii. Heal
+	b. Create method for opponents to attack
+		i. Random number 1-3/0-2 and assign each to a move
+	c. Maintain whose turn it is - boolean for if it is player's turn
+	d. Create health UI and maintain it in code (complete)
+		i. Create game over is player health reaches 0
+		ii. Create win battle state if enemy health reaches 0
+3. Create inventory system
+	a. Array of item objects
+		i. Read array for current objects and apply stats to player. 
+	b. Create a UI for players to view their inventory	
+		i. Include method for player to see what each item does
+		ii. Create possibility for player to sell/discard an item
+		
