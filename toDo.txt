@@ -1,8 +1,8 @@
 To Do:
-1. Create rolling dice mechanic
-	a. Create die
-	b. Roll numbers 1-6 for each die or possibly just one roll 2-12
-	c. Create method for player to roll
+1. Create rolling dice mechanic (complete)
+	a. Create die (complete)
+	b. Roll numbers 1-6 for each die or possibly just one roll 2-12 (complete)
+	c. Create method for player to roll (complete)
 2. Create turn based combat
 	a. Create 3 moves for players to use
 		i. Attack
